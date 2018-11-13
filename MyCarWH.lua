@@ -1,7 +1,7 @@
 require "lib.moonloader"
 require "lib.sampfuncs"
-local SE = require 'lib.samp.events'
-
+SE = require 'lib.samp.events'
+encoding = require "encoding"
 encoding.default = 'CP1251'
 
 script_version('1.1')
