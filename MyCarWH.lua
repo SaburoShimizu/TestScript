@@ -1,7 +1,7 @@
 require "lib.moonloader"
 require "lib.sampfuncs"
 local SE = require 'lib.samp.events'
-script_version('1.0')
+script_version('1.1')
 
 active = 1
 actives = 0
